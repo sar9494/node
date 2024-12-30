@@ -1,0 +1,26 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "-": "^0.0.1",
+    "@faker-js/faker": "^9.3.0",
+    "chalk": "^5.4.1",
+    "cowsay": "^1.6.0",
+    "figlet": "^1.8.0",
+    "inquirer": "^12.3.0",
+    "node-schedule": "^2.1.1",
+    "ora": "^8.1.1",
+    "play-sound": "^1.1.6",
+    "pokemon": "^3.2.1",
+    "qr-image": "^3.2.0",
+    "random-words": "^2.0.1"
+  }
+}
